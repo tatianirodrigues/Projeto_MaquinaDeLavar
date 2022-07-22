@@ -1,0 +1,1 @@
+Projeto da disciplina de Lógica de Programação do curso ENTRA-21.
